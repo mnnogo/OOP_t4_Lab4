@@ -78,13 +78,5 @@
         "model": "Elantra",
         "brand": "Hyundai",
         "mileage": 23000
-    },
-    {
-        "color": "Синий",
-        "year": "2000",
-        "price": "25000",
-        "model": "Новая модель",
-        "brand": "Новая марка",
-        "mileage": "250"
     }
 ]
